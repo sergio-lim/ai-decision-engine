@@ -7,6 +7,7 @@
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![model](https://img.shields.io/badge/model-Jev%20(TypeSafe)-7c3aed.svg)](https://openrouter.ai/)
+[![ci](https://github.com/sergio-lim/ai-decision-engine/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/sergio-lim/ai-decision-engine/actions/workflows/ci.yml)
 
 A small, stdlib-only Python engine that classifies inbound recruiter replies with **[Jev](https://openrouter.ai/)** — a TypeSafe decision model — and routes them by **confidence**. The regex baseline is included so you can see why keyword piles fail the moment a polite email also asks for salary.
 
