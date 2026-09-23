@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "text": "Hi Sergio, thanks for sending your CV. I'll share your profile with our talent team.",
+    "label": "simple_ack"
+  },
+  {
+    "id": 2,
+    "text": "Hola Sergio, muchas gracias por compartir tus datos. Estaré pasando tu perfil al equipo de Talento.",
+    "label": "simple_ack"
+  },
+  {
+    "id": 3,
+    "text": "Gracias por tu correo, quedo atento a cualquier novedad.",
+    "label": "simple_ack"
+  },
+  {
+    "id": 4,
+    "text": "Thanks for reaching out - I reviewed your profile and will get back to you if there's a fit.",
+    "label": "simple_ack"
+  },
+  {
+    "id": 5,
+    "text": "Recibido. Lo reviso y te comento.",
+    "label": "simple_ack"
+  },
+  {
+    "id": 6,
+    "text": "Thank you for your interest. Your application has been received.",
+    "label": "simple_ack"
+  },
+  {
+    "id": 7,
+    "text": "Hola Sergio, recibido! Cualquier novedad te aviso.",
+    "label": "simple_ack"
+  },
+  {
+    "id": 8,
+    "text": "Thanks! I'll pass this along to the hiring manager and let you know.",
+    "label": "simple_ack"
+  },
+  {
+    "id": 9,
+    "text": "Thanks for your interest. Could you share your salary expectations for this role?",
+    "label": "needs_judgment"
+  },
+  {
+    "id": 10,
+    "text": "Hola Sergio, te comparto mi agenda para agendar una entrevista.",
+    "label": "needs_judgment"
+  },
+  {
+    "id": 11,
+    "text": "Unfortunately we are not moving forward with your application at this time.",
+    "label": "needs_judgment"
+  },
+  {
+    "id": 12,
+    "text": "Hi Sergio, are you authorized to work in Argentina? Do you require sponsorship?",
+    "label": "needs_judgment"
+  },
+  {
+    "id": 13,
+    "text": "Mail Delivery Subsystem: Address not found. Your message wasn't delivered.",
+    "label": "needs_judgment"
+  },
+  {
+    "id": 14,
+    "text": "Please complete this technical assessment before we proceed.",
+    "label": "needs_judgment"
+  },
+  {
+    "id": 15,
+    "text": "Can you send your references and expected start date?",
+    "label": "needs_judgment"
+  },
+  {
+    "id": 16,
+    "text": "Sergio, cuál es tu expectativa salarial y disponibilidad?",
+    "label": "needs_judgment"
+  }
+]
